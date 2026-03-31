@@ -1,8 +1,8 @@
 # 🚀 IA Generativa aplicada à Educação Financeira  
 ### 📓 Caderno Temático com NotebookLM  
 **Autor:** Caio Branco  
-
 📍 Projeto desenvolvido na DIO  
+
 💡 Este projeto representou meu primeiro uso prático de IA como ferramenta de estudo estruturado, e me mostrou na prática como melhorar a qualidade das respostas através de prompts bem definidos.
 
 ---
