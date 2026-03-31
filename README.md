@@ -5,14 +5,14 @@
 
 ## 🚀 Minha Experiência com IA
 
-Durante este projeto, utilizei IA Generativa como ferramenta de estudo ativo.
+Durante este projeto, utilizei IA Generativa não apenas como ferramenta de resposta, mas como um recurso ativo de aprendizagem.
 
-Ao invés de apenas consumir conteúdo, usei a IA para:
-- Explorar conceitos
-- Testar diferentes formas de aprendizado
-- Refinar perguntas (engenharia de prompts)
+Ao longo do processo:
+- Testei diferentes formas de fazer perguntas
+- Comparei respostas
+- Ajustei prompts para melhorar a qualidade das respostas
 
-💡 Percebi que a qualidade das respostas depende diretamente da qualidade das perguntas.
+💡 Percebi que a IA não substitui o aprendizado — ela potencializa quando usada com pensamento crítico.
 
 ## 🎯 Objetivo do Estudo
 
@@ -23,6 +23,14 @@ Principais metas:
 - 🤖 Utilizar IA para gerar explicações e resumos  
 - 🧠 Desenvolver pensamento crítico  
 - 🛠️ Praticar engenharia de prompts  
+
+---
+
+## 🌍 Aplicação no Mundo Real
+
+A utilização de IA Generativa no contexto financeiro já é uma tendência crescente, permitindo automatizar análises, gerar relatórios e facilitar o acesso à informação financeira.
+
+Este projeto demonstra, em pequena escala, como essas ferramentas podem ser usadas para democratizar o conhecimento financeiro e apoiar melhores decisões.
 
 ---
 
@@ -135,14 +143,16 @@ Resultado:
 
 ---
 
-## 📊 Insight Final
+## 📌 Conclusão
 
-A IA Generativa não substitui o aprendizado, mas potencializa o processo.
+Este projeto demonstrou que a IA Generativa pode ser uma poderosa aliada no aprendizado, desde que utilizada com estratégia.
 
-Ela funciona melhor quando:
-- O usuário tem um objetivo claro
-- As fontes são confiáveis
-- Os prompts são bem estruturados
+Mais do que obter respostas, o processo envolveu:
+- Refinar perguntas
+- Avaliar a qualidade das respostas
+- Organizar o conhecimento
+
+🚀 O principal aprendizado foi que a engenharia de prompts é uma habilidade essencial para extrair valor real da IA.
 
 ---
 
