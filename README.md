@@ -1,16 +1,18 @@
 # 🚀 IA Generativa aplicada à Educação Financeira  
 ### 📓 Caderno Temático com NotebookLM  
-**Autor:** Caio Branco
+**Autor:** Caio Branco  
+📍 Projeto desenvolvido na DIO  
 
----
+## 🚀 Minha Experiência com IA
 
-## 💡 Sobre o Projeto
+Durante este projeto, utilizei IA Generativa como ferramenta de estudo ativo.
 
-Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
+Ao invés de apenas consumir conteúdo, usei a IA para:
+- Explorar conceitos
+- Testar diferentes formas de aprendizado
+- Refinar perguntas (engenharia de prompts)
 
-A proposta consistiu na criação de um caderno temático utilizando o NotebookLM, reunindo fontes confiáveis sobre educação financeira e aplicando técnicas de engenharia de prompts para extrair conhecimento estruturado.
-
----
+💡 Percebi que a qualidade das respostas depende diretamente da qualidade das perguntas.
 
 ## 🎯 Objetivo do Estudo
 
@@ -107,15 +109,21 @@ Explicação simples e eficiente
 
 ---
 
-## 🩹 Aprendizados
+### 📌 Evolução dos Prompts
 
-- Respostas genéricas exigem prompts mais específicos  
-- Pedir exemplos melhora a compreensão  
-- Limitar o formato gera respostas mais organizadas  
+Inicialmente, utilizei perguntas genéricas, o que resultou em respostas superficiais.
+
+Após ajustes:
+- Passei a incluir contexto
+- Defini formato de resposta
+- Solicitei exemplos práticos
+
+Resultado:
+✔️ Respostas mais úteis  
+✔️ Melhor organização  
+✔️ Maior clareza no aprendizado  
 
 ---
-
-## 📘 Miniguia de Estudo
 
 ### 📝 Resumo
 
@@ -124,6 +132,17 @@ Explicação simples e eficiente
 - Investimentos: aplicação de recursos  
 - Reserva de Emergência: segurança financeira  
 - Juros Compostos: crescimento do dinheiro  
+
+---
+
+## 📊 Insight Final
+
+A IA Generativa não substitui o aprendizado, mas potencializa o processo.
+
+Ela funciona melhor quando:
+- O usuário tem um objetivo claro
+- As fontes são confiáveis
+- Os prompts são bem estruturados
 
 ---
 
