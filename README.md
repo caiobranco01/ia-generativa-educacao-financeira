@@ -33,42 +33,77 @@ Principais metas:
 
 ---
 
-## 🧠 Engenharia de Prompts
+🧠 Engenharia de Prompts
+🔹 Prompt 1
 
-### 🔹 Caso 1
+Pergunta:
 
-**Prompt inicial:**
-> O que é educação financeira?
+O que é educação financeira?
 
-**Resposta da IA:**
-> Educação financeira é o conhecimento sobre como lidar com dinheiro.
+Resposta da IA:
 
-**Problema:** resposta muito genérica
+A educação financeira é o processo pelo qual consumidores e investidores melhoram sua compreensão sobre conceitos, produtos e riscos financeiros. Através de informação e instrução, desenvolvem habilidades para tomar decisões conscientes e melhorar seu bem-estar financeiro.
 
-**Prompt melhorado:**
-> Explique o que é educação financeira com exemplos práticos do dia a dia de um jovem.
+Insight:
 
-**Resposta melhorada:**
-> Educação financeira é a habilidade de administrar dinheiro de forma consciente, como evitar gastar todo o salário no início do mês, criar uma reserva de emergência e planejar compras maiores.
+A IA fornece uma definição completa e bem estruturada
+🔹 Prompt 2
 
----
+Pergunta:
 
-### 🔹 Caso 2
+Explique orçamento com exemplos práticos
 
-**Prompt inicial:**
-> Quais são os principais conceitos financeiros?
+Resposta da IA:
 
-**Problema:** resposta vaga
+Criar um orçamento significa acompanhar quanto dinheiro você recebe e quanto gasta. Ele inclui renda, despesas fixas e gastos variáveis.
+Exemplo: regra 50/30/20 — 50% necessidades, 30% desejos, 20% poupança.
 
-**Prompt melhorado:**
-> Liste os 5 principais conceitos financeiros para iniciantes e explique cada um em até 3 linhas.
+Insight:
 
-**Resposta melhorada:**
-- Orçamento: controle de receitas e despesas  
-- Investimento: aplicação para gerar retorno  
-- Juros compostos: crescimento ao longo do tempo  
-- Liquidez: facilidade de resgatar dinheiro  
-- Risco: possibilidade de perda  
+O uso de exemplos facilita o entendimento
+🔹 Prompt 3
+
+Pergunta:
+
+Quais são os principais conceitos financeiros para iniciantes?
+
+Resposta da IA:
+
+Orçamento e planejamento
+Gestão de crédito e dívidas
+Fundo de emergência
+Juros compostos
+Inflação
+
+Insight:
+
+A resposta ficou mais organizada e direta
+🔹 Prompt 4
+
+Pergunta:
+
+Como começar a investir com pouco dinheiro?
+
+Resposta da IA:
+
+Comece separando uma parte da renda ("pague-se primeiro"), aproveite planos de investimento e comece o quanto antes, mesmo com pouco valor.
+
+Insight:
+
+A IA trouxe orientações práticas
+🔹 Prompt 5
+
+Pergunta:
+
+Explique juros compostos de forma simples
+
+Resposta da IA:
+
+Juros compostos são “juros sobre juros”, onde o dinheiro cresce ao longo do tempo porque os rendimentos são reinvestidos.
+
+Insight:
+
+Explicação simples e eficiente
 
 ---
 
@@ -101,16 +136,6 @@ Principais metas:
 | Liquidez | Facilidade de saque |
 | Risco | Chance de perda |
 | Juros Compostos | Juros sobre juros |
-
----
-
-## 🤖 Prompts Reutilizáveis
-
-- Explique [tema] de forma simples  
-- Crie um resumo estruturado  
-- Dê exemplos práticos  
-- Liste erros comuns  
-- Crie um passo a passo  
 
 ---
 
