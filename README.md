@@ -26,11 +26,10 @@ Principais metas:
 
 ## 📚 Fontes Utilizadas
 
-- https://www.investopedia.com/personal-finance-4427760  
-- https://www.bcb.gov.br/educacao-financeira  
-- https://www.serasa.com.br/ensina/seu-dinheiro/educacao-financeira/  
-- https://www.anbima.com.br/pt_br/educar.htm  
-- https://www.cvm.gov.br/menu/investidor/educacao-financeira.html  
+- https://www.bcb.gov.br/cidadaniafinanceira  
+- https://www.gov.br/cvm/pt-br/assuntos/educacao-financeira   
+- https://www.anbima.com.br/pt_br/educar  
+- https://www.investopedia.com/terms/f/financial-literacy.asp  
 
 ---
 
