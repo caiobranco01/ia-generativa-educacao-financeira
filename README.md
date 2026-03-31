@@ -3,6 +3,11 @@
 **Autor:** Caio Branco  
 📍 Projeto desenvolvido na DIO  
 
+---
+
+💡 Este projeto representou meu primeiro uso prático de IA como ferramenta de estudo estruturado, e me mostrou na prática como melhorar a qualidade das respostas através de prompts bem definidos.
+
+---
 ## 🚀 Minha Experiência com IA
 
 Durante este projeto, utilizei IA Generativa não apenas como ferramenta de resposta, mas como um recurso ativo de aprendizagem.
